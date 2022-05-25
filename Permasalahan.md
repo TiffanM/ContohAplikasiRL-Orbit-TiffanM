@@ -18,10 +18,10 @@ Cetak angka `nth` dari deret Fibonacci
 ## Contoh
 ### Input
 ```
-10
+11
 ```
 
 ### Output
 ```
-55
+89
 ```
